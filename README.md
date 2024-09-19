@@ -1,4 +1,4 @@
-## Hi there, , I'm Musharraf Hussain👋
+## Hi there, I'm Musharraf Hussain👋
 I'm a QA Engineer and Test Automation specialist with expertise in web development using React and experience in a wide range of testing tools and methodologies.
 
 **- 🔭 I’m currently working on ...**
