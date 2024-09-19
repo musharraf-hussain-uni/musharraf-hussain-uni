@@ -38,6 +38,7 @@ I'm a QA Engineer and Test Automation specialist with expertise in web developme
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 <!--
 **musharraf-hussain-uni/musharraf-hussain-uni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
